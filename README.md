@@ -13,7 +13,7 @@ This was built from Dev Ed's Creative React Course.
 
 ### Sreenshot
 
-![Waves Lofi Playlist App](https://github.com/israelmitolu/react-music-player/tree/main/public/Waves-Lofi-Playlist.PNG)
+![Waves Lofi Playlist App](https://github.com/israelmitolu/react-music-player/blob/main/public/Waves%20Lofi%20Playlist.PNG)
 
 ### Technologies
 
